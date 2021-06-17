@@ -20,5 +20,5 @@ In order to make it work, please do the following:
  > </tomcat-users>
  > ```
 
-The workshop PPT can be downloaded from:
+The workshop PPT can be downloaded (new command) from:
 https://drive.google.com/file/d/1mMPO0zrphJ4-4WMXlDkmZpEcP5ctRkv-/view?usp=sharing
